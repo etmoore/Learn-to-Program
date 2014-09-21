@@ -27,3 +27,13 @@ oink-oink
 ```
 9.2 Local Variables
 -------------
+
+When you declare a variable inside a method, it's **local**.
+
+
+9.4 Return Variables
+--------------
+Every method returns something, even if it's `nil`.
+`puts` returns nil.
+
+The return value is simply the last **_expression_** evaluated in the method.
