@@ -16,6 +16,6 @@ def old_roman_numeral num
   roman
 end
 
-puts 'Please provide a number between 1 and 9000'
+puts 'Please provide a number between 1 and 9999'
 number = gets.chomp.to_i
 puts old_roman_numeral number
