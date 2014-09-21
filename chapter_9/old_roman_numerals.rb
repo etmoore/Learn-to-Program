@@ -4,11 +4,6 @@
 
 def old_roman_numeral number
 
-  # if (number.is_a? Numeric == false)
-  #   puts 'Please provide a numeric value.'
-  #   number = gets.chomp
-  # end
-
   numeral_array = []
 
   if number / 1000 > 0
@@ -48,7 +43,6 @@ def old_roman_numeral number
   end
 
   numeral_string = numeral_array.join
-  puts numeral_string
 end
 
 puts 'Please provide a number between 1 and 3000'
