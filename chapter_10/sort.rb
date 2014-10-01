@@ -37,3 +37,5 @@ end
 
 puts sort ['dogs', 'cats', 'fish', 'mice', 'hogs', 'cows', 'birds']
 puts sort [1, 2, 3, 5, 4]
+puts sort [1, 1, 1, 1, 1]  # testing duplication
+puts sort ['dogs', 'dogs', 'fish', 'fish']
