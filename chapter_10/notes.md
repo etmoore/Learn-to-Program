@@ -1,6 +1,4 @@
-Chapter 10: There's nothing new to learn in
-Chapter 10
-==========================
+Chapter 10: There's nothing new to learn in Chapter 10
 
 10.1 Recursion
 -------------

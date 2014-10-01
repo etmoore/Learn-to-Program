@@ -1,34 +1,39 @@
-# DOES NOT WORK YET
-# gets caught in an infinite loop...
+def sort some_array
+  recursive_sort some_array, []
+end
 
-def sort_array array_of_words
-  unsorted_array = array_of_words
-  sorted_array = []
-
+def recursive_sort unsorted_array, sorted_array
+  # if there's nothing in unsorted_array, then return the sorted_array
   if unsorted_array.length <= 0
     return sorted_array
   end
 
-  while unsorted_array.length > 0
-    smallest = unsorted_array.pop
-    still_unsorted = []
+  # create an empty array to hold words that have yet to be sorted
+  still_unsorted = []
 
-    unsorted_array.each do |compared_word|
-      if compared_word < smallest
-        still_unsorted.push smallest
-        smallest = compared_word
-      else
-        still_unsorted.push compared_word
-      end
+  # grab a word from unsorted_array and assign it to smallest
+  smallest = unsorted_array.pop
+
+  # loop through the rest of the words in unsorted_array
+  unsorted_array.each do |test_object|
+    # compare the test_object to smallest
+    # if the test_object is smaller...
+    if test_object < smallest
+      # push smallest back into the unsorted array...
+      still_unsorted.push smallest
+      # assign the test_object to smallest
+      smallest = test_object
+    else
+      still_unsorted.push test_object
     end
-
-    sorted_array.push smallest
-    unsorted_array.concat(still_unsorted)
   end
+  # Now, we have the smallest object in smallest
+  # Push the smallest object into the sorted_array
+  sorted_array.push smallest
 
-  sorted_array
+  # Repeat the process
+  recursive_sort still_unsorted, sorted_array
 end
 
-# print sort_array []
-puts sort_array ['dog', 'cat', 'aardvark', 'fish', 'bear', 'zebra']
-
+puts sort ['dogs', 'cats', 'fish', 'mice', 'hogs', 'cows', 'birds']
+puts sort [1, 2, 3, 5, 4]
