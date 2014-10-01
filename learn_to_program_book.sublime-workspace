@@ -1,0 +1,1892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"thre",
+				"three_x"
+			],
+			[
+				"cover",
+				"coverage_goal"
+			],
+			[
+				"three_",
+				"three_x_coverage"
+			],
+			[
+				"coverage",
+				"coveragePercentage"
+			],
+			[
+				"campai",
+				"campaigns"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"thumbHei",
+				"thumbHeightDifference"
+			],
+			[
+				"co",
+				"coverParent"
+			],
+			[
+				"js",
+				"jsCoverParent"
+			],
+			[
+				"bi",
+				"bigger_better_number"
+			],
+			[
+				"favorite",
+				"favorite_number"
+			],
+			[
+				"lst",
+				"last_name"
+			],
+			[
+				"middle",
+				"middle_name"
+			],
+			[
+				"campaigns",
+				"campaignsInfo"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"km",
+				"km2_explored"
+			],
+			[
+				"parse",
+				"parseNumbers"
+			],
+			[
+				"covera",
+				"coverage_pct"
+			],
+			[
+				"cou",
+				"counterB"
+			],
+			[
+				"Todo",
+				"Todo"
+			],
+			[
+				"todo",
+				"Todo"
+			],
+			[
+				"email",
+				"email_body"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"cam",
+				"campaignsInfo"
+			],
+			[
+				"backgou",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"confirm",
+				"confirmPassword"
+			],
+			[
+				"confrim",
+				"confirm_password"
+			],
+			[
+				"confir",
+				"confirmPasswordEvent"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"to",
+				"topic_params"
+			],
+			[
+				"topic",
+				"topic"
+			],
+			[
+				"passwor",
+				"password_confirmation"
+			],
+			[
+				"update",
+				"update_attribute"
+			],
+			[
+				"created",
+				"created_at"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "chapter_10/sort.rb",
+			"settings":
+			{
+				"buffer_size": 709,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapter_10/recursive_sort.rb",
+			"settings":
+			{
+				"buffer_size": 974,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapter_10/quicksort.rb",
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapter_8/building_and_sorting.rb",
+			"settings":
+			{
+				"buffer_size": 474,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapter_9/improved_ask.rb",
+			"settings":
+			{
+				"buffer_size": 794,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/evan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 568,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "chapter_10/notes.md",
+			"settings":
+			{
+				"buffer_size": 445,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - User"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"command",
+				"Git: Custom Command"
+			],
+			[
+				"i ",
+				"Package Control: Install Package"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"erb",
+				"Snippet: ERB tags"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa en",
+				"Package Control: Enable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/evan/Learn_to_Program",
+		"/Users/evan/Learn_to_Program/chapter_10",
+		"/Users/evan/Learn_to_Program/chapter_7",
+		"/Users/evan/Learn_to_Program/chapter_9"
+	],
+	"file_history":
+	[
+		"/Users/evan/Learn_to_Program/chapters_1-5/better_favorite_number.rb",
+		"/Users/evan/Learn_to_Program/chapter_8/building_and_sorting.rb",
+		"/Users/evan/Learn_to_Program/chapter_8/notes.md",
+		"/Users/evan/Learn_to_Program/chapter_6/notes.md",
+		"/Users/evan/Learn_to_Program/chapter_10/notes.md",
+		"/Users/evan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/evan/Learn_to_Program/chapter_9/modern_roman_numerals.rb",
+		"/Users/evan/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/evan/Learn_to_Program/chapter_10/factorial_recursion.rb",
+		"/Users/evan/Learn_to_Program/chapter_9/old_roman_numerals.rb",
+		"/Users/evan/Learn_to_Program/chapter_7/notes.md",
+		"/Users/evan/Learn_to_Program/chapter_7/deaf_grandma.rb",
+		"/Users/evan/Learn_to_Program/chapter_9/old_roman_numerals_refactored.rb",
+		"/Users/evan/Learn_to_Program/chapter_10/ask_recursively.rb",
+		"/Users/evan/Learn_to_Program/chapter_9/notes.md",
+		"/Users/evan/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/evan/Tomnod/crowdnexus/nod/collections/Campaigns.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/models/Campaign.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/controllers/CampaignIndexControl.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/css/CampaignsLayout.css",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/challenge.html",
+		"/Users/evan/Tomnod/crowdnexus/.vagrant/machines/default/virtualbox/action_provision",
+		"/Users/evan/Tomnod/crowdnexus/nod/models/Analytics.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/views/LandingSecondaryLayoutView.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/views/LandingSecondaryCampaignView.js",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.1.0/license.txt",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/js/app.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/icons/svg/security_carjacking.svg",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/sendEmail.php",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.1.0/session.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/templates/LandingSecondaryLayoutTemplate.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/templates/MapControlsTemplate.js",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.2.2/lib/api/classTemplate.html",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.1.0/template.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/tomnod_eyeball.svg",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/icons/svg/telecommunications_e-mail.svg",
+		"/Users/evan/Tomnod/crowdnexus/nod/profile/campaign_stats.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/css/CampaignLayout.css",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.2.2/lib/api/classDB_1_1Jig_1_1Session-members.html",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.2.2/lib/api/classDB_1_1Jig_1_1Session.html",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.2.2/lib/db/jig/session.php",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.1.0/db/jig/session.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/jquery.jscrollpane.min.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/jquery.jscrollpane.css",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/bootstrap-select/bootstrap-select.jquery.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/tempCampaigns.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/leaflet/font/config.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/bootstrap-tour/component.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/fonts/humanitarian_icons_webfont/selection.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/bootstrap-tour/package.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/bootstrap-select/package.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/bxslider/bower.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/bootstrap-select/bower.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/facebook-api/composer.json",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.2.2/composer.json",
+		"/Users/evan/Tomnod/crowdnexus/nod/init.js",
+		"/Users/evan/Tomnod/crowdnexus/.gitignore",
+		"/Users/evan/Tomnod/crowdnexus/htaccess-elastic-beanstalk",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/icons/svg/infrastructure_hindu_temple.svg",
+		"/Users/evan/Tomnod/crowdnexus/AWSSDKforPHP/_samples/html-sdb_create_domain_data.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/analytics.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/icons/svg/activity_needs_assessment.svg",
+		"/Users/evan/Tomnod/crowdnexus/autoscaling.txt",
+		"/Users/evan/Tomnod/crowdnexus/nod/css/profile.css",
+		"/Users/evan/Tomnod/crowdnexus/nod/models/Profile.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/profile/profile.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/collections/ProfileCampaigns.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/nod.api.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/views/CreateMetaView.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/services/CampaignCategory.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/icons/svg/security_attack.svg",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/icons/svg/security_abduction.svg",
+		"/Users/evan/Tomnod/crowdnexus/nod/templates/LandingSecondaryCampaignTemplate.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/views/ScoreTickerView.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/controllers/TipSheetControl.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/images/icons/svg/cluster_emergency_telecommunications.svg",
+		"/Users/evan/Tomnod/crowdnexus/nod/templates/ProfileSettingsTemplate.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/templates/MessageTemplate.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/collections/Overlays.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/coverParent.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/inc/CampaignOverview.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/challenge.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/models/CampaignOverview.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/inc/BaseAPI.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/index.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/Clamp.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/templates/CreateOverlaySipTemplate.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/models/Overlay.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/views/OLMapView.js",
+		"/Users/evan/Tomnod/crowdnexus/omg_mod_pagespeed.md",
+		"/Users/evan/Tomnod/crowdnexus/nod/collections/CampaignMaps.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/js/layouts/CampaignsLayout.js",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.2.2/lib/api/classCache.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/services/CampaignOverview.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/index.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/index.php",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.2.2/index.php",
+		"/Users/evan/Tomnod/crowdnexus/F3-2.1.0/index.php",
+		"/Users/evan/Tomnod/crowdnexus/index.php",
+		"/Users/evan/Tomnod/crowdnexus/F3-3.1.0/base.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/css/bootstrap3.css",
+		"/Users/evan/Tomnod/crowdnexus/nod/templates/ProfileCampaignsTemplate.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/js/controller.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/inc/Tagger.php",
+		"/Users/evan/Tomnod/crowdnexus/.git/COMMIT_EDITMSG",
+		"/Users/evan/Tomnod/crowdnexus/F3-2.1.0/lib/geo.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/css/admin.css",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/nod.analytics.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/nod.session.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/nod.user-options.js",
+		"/Users/evan/Tomnod/crowdnexus/AWSSDKforPHP/_docs/NOTICE.md",
+		"/Users/evan/Tomnod/crowdnexus/nod/models/ProfileCampaign.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/campaigns.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/partials/campaigns/_context-overlays.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/css/profileBefore.css",
+		"/Users/evan/Tomnod/crowdnexus/nod/profile/profile.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/templates/CampaignLayout.html",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/css/TaggingToolsLayout.css",
+		"/Users/evan/Tomnod/crowdnexus/nod/js/leaflet/leaflet-src.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/challenge/campaign.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/models/Campaign.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/services/Campaign.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/inc/Campaign.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/models/CampaignPolygon.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/admin/collections/Campaigns.js",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/inc/CampaignCategory.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/api/inc/Medals-class.php",
+		"/Users/evan/Tomnod/crowdnexus/nod/collections/Medals.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aardvark",
+			"loops",
+			"commas",
+			"campaign_stats",
+			"coveragePercentage",
+			"notifications",
+			"nod.api",
+			" models",
+			"Nod.API.notifications.all",
+			"clamp.js",
+			"fetch",
+			"model",
+			"url",
+			"updateUrl",
+			"this",
+			"/campaigns/:id",
+			"tags",
+			"photos",
+			"campaignoverview",
+			"campaignoverl",
+			"forcampaign",
+			"models",
+			".url =",
+			"url =",
+			"model",
+			"tagger",
+			"campaignover",
+			"campaigns",
+			".url =",
+			"admin",
+			"nod.api.js",
+			"nod.api.campaigns",
+			"nod.Session",
+			"campaignOverviews",
+			"Nod.API.campaignOverviews",
+			"analytics",
+			"container-fluid",
+			"timePassed",
+			"moment()",
+			"moment",
+			".extend",
+			"landingsecondarylayout",
+			"SetEnv",
+			"col",
+			"4",
+			"sm",
+			"3",
+			"sm",
+			"$this",
+			"this",
+			"campaignbox",
+			"campaigns-layout-template",
+			"region-secondary-campaigns",
+			".region-secondary-campaigns",
+			"CampaignsLayout",
+			"num_bottles",
+			"CampaignsLayout",
+			"secondary",
+			"Campaigns",
+			"indexCampaigns",
+			"naturalWidth",
+			"naturalwidth",
+			"naturalwidtch",
+			"natural",
+			"naturalSize",
+			"naturalsize",
+			"campaignbox-large",
+			"secondary-campaignbox",
+			"@media",
+			"secondary-campaignbox",
+			"region-secondary-campaigns",
+			"new landingsecondarylayout",
+			"secondarylayout",
+			"secondary-layout",
+			".append",
+			"landingsecondarycampaigntem",
+			"primary-campaign-wrapper",
+			"button_to",
+			"Description",
+			"successfully created",
+			"created successfully",
+			"divider",
+			":active",
+			"region-profile-tab-content",
+			"region",
+			"selected == 'campaigns'",
+			"badges",
+			"divider",
+			"profilebadgesview",
+			"max-width",
+			"outline: none",
+			"outline:none",
+			"renderTaggerProfile",
+			"profileTagger",
+			"profilenav",
+			"ProfileNavView",
+			"profilebadges",
+			"badges",
+			"ProfileCampaigns",
+			"profileCampaigns",
+			"profilecampaigns",
+			"campaign",
+			"totalMapViews",
+			"taggersByCampaign",
+			"nod.api.cam",
+			"rendertagger",
+			"profiletagger",
+			"profileheader",
+			"font-weight",
+			"container",
+			"header",
+			"title",
+			"glyph",
+			"parsed",
+			"card",
+			"font-size",
+			"eyeball.jpg",
+			"profileheader",
+			"h3",
+			"button",
+			"btn",
+			"tagging test",
+			"font-size",
+			"glyphicon",
+			"titleFontSize",
+			"value",
+			"size",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"edit",
+			"dogs",
+			"section"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "chapter_10/sort.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 709,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chapter_10/recursive_sort.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 974,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								972
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "chapter_10/quicksort.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "chapter_8/building_and_sorting.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								235,
+								472
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "chapter_9/improved_ask.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/evan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "chapter_10/notes.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 116.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "learn_to_program_book.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"recur",
+				"chapter_10/recursive_sort.rb"
+			],
+			[
+				"sort",
+				"chapter_8/building_and_sorting.rb"
+			],
+			[
+				"notes",
+				"chapter_10/notes.md"
+			],
+			[
+				"nu",
+				"chapter_9/modern_roman_numerals.rb"
+			],
+			[
+				"not",
+				"chapter_8/notes.md"
+			],
+			[
+				"no",
+				"chapter_6/notes.md"
+			],
+			[
+				"n",
+				"chapter_10/notes.md"
+			],
+			[
+				"do",
+				"chapter_9/old_roman_numerals.rb"
+			],
+			[
+				"campaign",
+				"nod/models/Campaign.js"
+			],
+			[
+				"app",
+				"nod/challenge/js/app.js"
+			],
+			[
+				"lasecview",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"secview",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"lase",
+				"nod/templates/LandingSecondaryCampaignTemplate.html"
+			],
+			[
+				"camover",
+				"nod/models/CampaignOverview.js"
+			],
+			[
+				"cam.json",
+				"nod/profile/campaign_stats.json"
+			],
+			[
+				"campaigns",
+				"nod/collections/Campaigns.js"
+			],
+			[
+				"htac",
+				".htaccess"
+			],
+			[
+				"analyti",
+				"nod/models/Analytics.js"
+			],
+			[
+				"profi",
+				"nod/profile/profile.html"
+			],
+			[
+				"nod.",
+				"nod/js/nod.api.js"
+			],
+			[
+				"profile.html",
+				"nod/profile/profile.html"
+			],
+			[
+				"campaignover",
+				"nod/models/CampaignOverview.js"
+			],
+			[
+				"seconview",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"secatemplate",
+				"nod/templates/LandingSecondaryCampaignTemplate.html"
+			],
+			[
+				"overlay",
+				"nod/collections/Overlays.js"
+			],
+			[
+				"",
+				"nod/js/coverParent.js"
+			],
+			[
+				"challen",
+				"nod/challenge/challenge.html"
+			],
+			[
+				"nod",
+				"nod/js/nod.api.js"
+			],
+			[
+				"chalel",
+				"nod/admin/challenge.html"
+			],
+			[
+				"index",
+				"nod/api/index.php"
+			],
+			[
+				"baseapi",
+				"nod/api/inc/BaseAPI.php"
+			],
+			[
+				"nod.ap",
+				"nod/js/nod.api.js"
+			],
+			[
+				"seconcam",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"inde",
+				"nod/api/index.php"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"landseccam",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"campaiover",
+				"nod/api/inc/CampaignOverview.php"
+			],
+			[
+				"nod.api",
+				"nod/js/nod.api.js"
+			],
+			[
+				"nod.session",
+				"nod/js/nod.session.js"
+			],
+			[
+				"cover",
+				"nod/js/coverParent.js"
+			],
+			[
+				"profilecam",
+				"nod/templates/ProfileCampaignsTemplate.html"
+			],
+			[
+				"secondar",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"campaign_st",
+				"nod/profile/campaign_stats.json"
+			],
+			[
+				"profiel",
+				"nod/collections/ProfileCampaigns.js"
+			],
+			[
+				"pro",
+				"nod/css/profile.css"
+			],
+			[
+				"procam",
+				"nod/templates/ProfileCampaignsTemplate.html"
+			],
+			[
+				"secontem",
+				"nod/templates/LandingSecondaryLayoutTemplate.html"
+			],
+			[
+				"controller",
+				"nod/challenge/js/controller.js"
+			],
+			[
+				"challenge",
+				"nod/challenge/challenge.html"
+			],
+			[
+				"camlay",
+				"nod/challenge/css/CampaignsLayout.css"
+			],
+			[
+				"lslaytem",
+				"nod/templates/LandingSecondaryLayoutTemplate.html"
+			],
+			[
+				"mcamp",
+				"nod/models/Campaign.js"
+			],
+			[
+				"campcss",
+				"nod/challenge/css/CampaignsLayout.css"
+			],
+			[
+				"campaigncss",
+				"nod/challenge/css/CampaignLayout.css"
+			],
+			[
+				"secon",
+				"nod/templates/LandingSecondaryCampaignTemplate.html"
+			],
+			[
+				"codepen.css",
+				"nod/challenge/css/codepen.css"
+			],
+			[
+				"reiz",
+				"nod/challenge/js/resizeImages.js"
+			],
+			[
+				"campai",
+				"nod/admin/controllers/CampaignIndexControl.js"
+			],
+			[
+				"campaicss",
+				"nod/challenge/css/CampaignLayout.css"
+			],
+			[
+				"secondary",
+				"nod/templates/LandingSecondaryCampaignTemplate.html"
+			],
+			[
+				"profcamtem",
+				"nod/templates/ProfileCampaignsTemplate.html"
+			],
+			[
+				"procamvi",
+				"nod/views/ProfileCampaignsView.js"
+			],
+			[
+				"profile",
+				"nod/css/profile.css"
+			],
+			[
+				"cam.css",
+				"nod/challenge/css/CampaignLayout.css"
+			],
+			[
+				"camapignslayout",
+				"nod/challenge/js/layouts/CampaignsLayout.js"
+			],
+			[
+				"landseccan",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"landseview",
+				"nod/views/LandingSecondaryLayoutView.js"
+			],
+			[
+				"landcamview",
+				"nod/views/LandingPastCampaignView.js"
+			],
+			[
+				"landsecview",
+				"nod/views/LandingSecondaryLayoutView.js"
+			],
+			[
+				"landview",
+				"nod/views/LandingSecondaryLayoutView.js"
+			],
+			[
+				"landingse",
+				"nod/templates/LandingSecondaryLayoutTemplate.html"
+			],
+			[
+				"primary",
+				"nod/templates/LandingPrimaryCampaignTemplate.html"
+			],
+			[
+				"challe",
+				"nod/challenge/challenge.html"
+			],
+			[
+				"appindex",
+				"app/views/topics/index.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"contro",
+				"app/controllers/topics_controller.rb"
+			],
+			[
+				"index.html",
+				"app/views/topics/index.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"topics_con",
+				"app/controllers/topics_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"view",
+				"app/views/topics/index.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"contorller",
+				"app/controllers/topics_controller.rb"
+			],
+			[
+				"vote",
+				"app/models/vote.rb"
+			],
+			[
+				"topic",
+				"app/models/topic.rb"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"config/route",
+				"config/routes.rb"
+			],
+			[
+				"modtopi",
+				"app/models/topic.rb"
+			],
+			[
+				"camp.json",
+				"nod/profile/campaign_stats.json"
+			],
+			[
+				"camtem",
+				"nod/templates/ProfileCampaignsTemplate.html"
+			],
+			[
+				"ternary",
+				"nod/templates/LandingPrimaryCampaignTemplate.html"
+			],
+			[
+				"protem",
+				"nod/templates/ProfileBadgesTemplate.html"
+			],
+			[
+				"pronavv",
+				"nod/views/ProfileNavView.js"
+			],
+			[
+				"pronav",
+				"nod/templates/ProfileNavTemplate.html"
+			],
+			[
+				"profsetview",
+				"nod/templates/ProfileSettingsView.html"
+			],
+			[
+				"proheavew",
+				"nod/views/ProfileHeaderView.js"
+			],
+			[
+				"profilenav",
+				"nod/views/ProfileNavView.js"
+			],
+			[
+				"pronavcss",
+				"nod/admin/templates/OverlayNavTemplate.css"
+			],
+			[
+				"procamview",
+				"nod/views/ProfileCampaignsView.js"
+			],
+			[
+				"procamtem",
+				"nod/templates/ProfileCampaignsTemplate.html"
+			],
+			[
+				"probad",
+				"nod/views/ProfileBadgesView.js"
+			],
+			[
+				"profilebadge",
+				"nod/templates/ProfileBadgesView.html"
+			],
+			[
+				"prohea",
+				"nod/templates/ProfileHeaderTemplate.html"
+			],
+			[
+				"profilemainview",
+				"nod/views/ProfileMainView.js"
+			],
+			[
+				"prohead",
+				"nod/views/ProfileHeaderView.js"
+			],
+			[
+				"porhea",
+				"nod/templates/ProfileHeaderView.html"
+			],
+			[
+				"procamp",
+				"nod/collections/ProfileCampaigns.js"
+			],
+			[
+				"prohtml",
+				"nod/profile/profile.html"
+			],
+			[
+				"promaintem",
+				"nod/templates/ProfileMainTemplate.html"
+			],
+			[
+				"profilemain",
+				"nod/views/ProfileMainView.js"
+			],
+			[
+				"profilehea",
+				"nod/templates/ProfileHeaderView.html"
+			],
+			[
+				"profilemaintem",
+				"nod/templates/ProfileMainTemplate.html"
+			],
+			[
+				"proficam",
+				"nod/collections/ProfileCampaigns.js"
+			],
+			[
+				"profilehead",
+				"nod/templates/ProfileHeaderView.html"
+			],
+			[
+				"profileheader",
+				"nod/templates/ProfileHeaderView.html"
+			],
+			[
+				"prohtm",
+				"nod/profile/profile.html"
+			],
+			[
+				"procamv",
+				"nod/views/ProfileCampaignsView.js"
+			],
+			[
+				"profilcss",
+				"nod/css/profile.css"
+			],
+			[
+				"profilecamp",
+				"nod/models/ProfileCampaign.js"
+			],
+			[
+				"bootstrap",
+				"nod/css/bootstrap3.css"
+			],
+			[
+				"justgag",
+				"nod/js/justgage.1.0.1.js"
+			],
+			[
+				".sh",
+				"bootstrap.sh"
+			],
+			[
+				"profilecamap",
+				"nod/collections/ProfileCampaigns.js"
+			],
+			[
+				"landingsecvie",
+				"nod/views/LandingSecondaryCampaignView.js"
+			],
+			[
+				"procss",
+				"nod/css/profile.css"
+			],
+			[
+				"just",
+				"nod/js/justgage.1.0.1.js"
+			],
+			[
+				"raph",
+				"nod/js/raphael-min.js"
+			],
+			[
+				"procamte",
+				"nod/templates/ProfileCampaignsTemplate.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Learn_to_Program/learn_to_program_book.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
