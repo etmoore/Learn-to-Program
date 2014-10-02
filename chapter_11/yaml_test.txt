@@ -1,0 +1,9 @@
+---
+:hair_color: brown
+:name: Evan
+:shoe_size: 13
+:favorite_colors:
+- red
+- green
+- blue
+:eye_color: hazel
