@@ -24,18 +24,18 @@ def make_playlist music_path
   # Move to the music directory
   Dir.chdir music_path
   # Find the music to include in the playlist
-  music_files = Dir['**/*.{MP3,mp3}']
+  music_files_arr = Dir['**/*.{MP3,mp3}']
   # Shuffle the music
   if $shuffle_setting == true
-    music_files = shuffle music_files
+    music_files_arr = shuffle music_files_arr
   end
   # Turn the music_files array into a string,
   # separated by \n
-  music_files = music_files.join("\n")
+  music_files_str = music_files_arr.join("\n")
   # Write the paths to the playlist file
   filename = playlist_name + '.m3u'
   File.open filename, 'w' do |f|
-    f.write(music_files)
+    f.write(music_files_str)
   end
 end
 
