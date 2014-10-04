@@ -104,6 +104,14 @@ puts Die.new.showing
 ```
 => 4   (or some other random number)
 
+## 13.4 new vs. initialize ##
+`new` and `initialize` work hand in hand.
+Use `new` to create a new object, and `initialize` is then called automatically (if it's defined).
+**So what's the difference?**
+1. `new` is a method of the *class* and `initialize` is a method of the *instance*. Until you call `new`, there's no instance to call `initialize` on.
+2. you define `initialize` in your class, but never `new`. `new` is already built into all classes.
+
+
 
 
 
