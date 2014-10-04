@@ -52,3 +52,125 @@ difference = ryan_birthday - my_birthday # The number of seconds between Ryan's 
 *You can't have times more than 2 billion seconds away from epoch!! - roughly December 1901 to January 2038*
 
 Ruby does provide other classes, such as `Date` and `Date-Time` that can handle just about any point in history, but they're much more complicated than `Time`
+
+## 12.3 The Hash Class ##
+Though strings are typically used as **keys** in hashes, you can use any object, even arrays and other hashes.
+```ruby
+weird_hash = Hash.new
+
+weird_hash[12] = 'monkeys'
+weird_hash[[]] = 'emptiness'
+weird_hash[Time.new] = 'no time like the present'
+```
+
+## 12.4 Ranges ##
+A **Range** represents an interval of numbers, letters, or anything that you can compare with _this < that_ .  Typically, you only use ranges for integers, though.
+
+```ruby
+# This is your range literal.
+letters = 'a'..'c'
+
+# Convert range to array.
+puts(['a', 'b', 'c']) == letters.to_a)
+
+# Iterate over a range:
+('A'..'Z').each do |letter|
+  print letter
+end
+puts
+
+god_bless_the_70s = 1970..1979
+puts god_bless_the_70s.min
+puts god_bless_the_70s.max
+puts (god_bless_the_70s.include?(1979))
+puts (god_bless_the_70s.include?(1980))
+puts (god_bless_the_70s.include?(1974.5))
+```
+output:
+```
+true 
+ABCDEFGHIJKLMNOPQRSTUVWXYZ 
+1970
+1979
+true
+false
+true
+```
+
+## 12.5 Stringy Superpowers ##
+Some array methods are also available to strings.
+The `[...]` method lets you pass in a number and get the character code at that position.
+```ruby
+da_man = 'Mr. T'
+big_T = da_man[4]
+puts big_T
+
+puts ?T
+puts 84.chr
+```
+outputs
+```
+84
+84
+T
+```
+
+To get the character code for a specific character, simply precede the character with a `?`. This is useful for comparisons.
+```ruby
+puts 'Hi there.'
+puts 'What\'s your name?'
+
+name = gets.chomp
+puts "Hi, #{name}."
+if name[0] == ?E
+  puts 'You are awesome.'
+  puts 'I can just tell.'
+end
+```
+
+You can also grab substrings.
+```ruby
+prof = 'We tore the universe a new space-hole, alright!'
+puts prof[12, 8] # [start, how long?]
+puts prof[12..20] # [from 12 to 20]
+
+puts
+
+def is_avi? filename
+  filename.downcase[-4..-1] == '.avi' # Negative numbers start from the end.
+end
+
+puts is_avi?('DANCEMONKEYBOY.AVI')
+puts is_avi?('toilet_paper_fiasco.jpg')
+```
+```
+universe
+universe
+
+true
+false
+```
+
+
+## 12.7 Classes and the Class Class ##
+In Ruby, classes are real objects. You can call methods (like `new`) on classes because they're objects.
+
+```ruby
+puts (42.class)
+puts ("I'll have mayonnaise on mine!".class)
+puts(Time.new.class)
+puts(Time.class)
+puts(String.class)
+
+puts(Class.class)
+```
+```
+Fixnum
+String
+Time
+Class
+Class
+Class # gasp!
+```
+
+Class is a Class. Classy!
