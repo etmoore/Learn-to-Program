@@ -1,4 +1,5 @@
 # Calls a block for each hour of the day that has passed.
+# Currently using military time.
 def grandfather_clock &block
   current_hour = Time.new.hour
   current_hour.times do
